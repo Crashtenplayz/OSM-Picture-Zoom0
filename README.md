@@ -25,10 +25,10 @@ This project generates 2×2 size map images at ZOOM 0 from [OpenStreetMap](https
 - Grid layout (how to stitch the 2×2 image):
   - X increases to the right; Y increases downward
   - Arrange tiles like this:
-    - Top-left: `0/0.png`
-    - Top-right: `1/0.png`
-    - Bottom-left: `0/1.png`
-    - Bottom-right: `1/1.png`
+    - Top-left: `1/1.png`
+    - Top-right: `2/1.png`
+    - Bottom-left: `1/2.png`
+    - Bottom-right: `2/2.png`
 
 - Downloading:
   - Browse the repository folders and click the PNG you need to download.
