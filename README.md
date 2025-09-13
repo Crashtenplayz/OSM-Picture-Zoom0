@@ -1,12 +1,13 @@
 # Open Street Map Picture (2×2 Version)
 
-This project generates **2×2 size map images** from [OpenStreetMap](https://www.openstreetmap.org) (OSM) data.  
+This project generates **2×2 size map images at ZOOM 0** from [OpenStreetMap](https://www.openstreetmap.org) (OSM) data.  
 Users can download the produced pictures directly from this repository.
 
 ## Details
 - Map source: OpenStreetMap (OSM)
 - Output: 2×2 picture size
-- Format: PNG/JPG
+- Zoom : 0
+- Format: PNG
 
 ## License
 
