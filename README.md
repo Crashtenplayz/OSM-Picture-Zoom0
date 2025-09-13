@@ -31,9 +31,6 @@ This project generates images at ZOOM 0 from [OpenStreetMap](https://www.openstr
 
 - Downloading:
   - Browse the repository folders and click the PNG you need to download.
-  - Raw URL pattern (replace BRANCH with your branch name, often `main`):
-    - `https://raw.githubusercontent.com/Crashtenplayz/OSM-Picture-Zoom0-2x2/BRANCH/X/Y.png`
-    - Example: `https://raw.githubusercontent.com/Crashtenplayz/OSM-Picture-Zoom0-2x2/main/0/0.png`
 
 - Using the images:
   - You can place the four tiles in a 2×2 grid (as listed above) to form the full Zoom 0 view.
