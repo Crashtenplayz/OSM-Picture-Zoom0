@@ -1,10 +1,9 @@
-# Open Street Map Picture (2×2 Version)
+# Open Street Map Picture (Zoom 0)
 
-This project generates 2×2 size map images at ZOOM 0 from [OpenStreetMap](https://www.openstreetmap.org) (OSM) data. Users can download the produced pictures directly from this repository.
+This project generates images at ZOOM 0 from [OpenStreetMap](https://www.openstreetmap.org) (OSM) data. Users can download the produced pictures directly from this repository.
 
 ## Details
 - Map source: OpenStreetMap (OSM)
-- Output: 2×2 picture size
 - Zoom: 0
 - Format: PNG
 
@@ -24,7 +23,7 @@ This project generates 2×2 size map images at ZOOM 0 from [OpenStreetMap](https
 
 - Grid layout (how to stitch the 2×2 image):
   - X increases to the right; Y increases downward
-  - Arrange tiles like this:
+  - Arrange tiles like this (Examples):
     - Top-left: `1/1.png`
     - Top-right: `2/1.png`
     - Bottom-left: `1/2.png`
